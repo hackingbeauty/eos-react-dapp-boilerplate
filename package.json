@@ -1,9 +1,9 @@
 {
-  "name": "ReactDappBoilerplate",
+  "name": "EOSReactDappBoilerplate",
   "version": "2.0.0",
   "private": true,
   "license": "MIT",
-  "description": "A Foundational UI Boilerplate for Ethereum Dapps Built With Trufle",
+  "description": "An expert UI Boilerplate for EOS Dapps Built With React & Redux",
   "scripts": {
     "clean": "rimraf dist",
     "build": "webpack --progress --verbose --colors --display-error-details --config webpack/common.config.babel.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hackingbeauty/base-single-page-app-architecture.git"
+    "url": "https://github.com/hackingbeauty/eos-react-dapp-boilerplate.git"
   },
   "devDependencies": {
     "autoprefixer": "^6.6.1",
