@@ -6,3 +6,8 @@ export const appConfig = {
   description: 'An expert foundational React boilerplate for EOS Dapps',
   splashScreenBackground: '#ffffff'
 }
+
+export const EOSConfig = {
+  defaultPrivateKey: 'asdfasdfasfasdfasdf',
+  signatureProvider: ''
+}
